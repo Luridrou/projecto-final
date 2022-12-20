@@ -1,0 +1,30 @@
+.blq-map{
+    text-align: center;
+}
+
+.blq-map div h3{
+    font-size: 3rem;
+    padding: 80px 0px;
+}
+
+.blq-map ul{
+    text-align: left;
+    font-size: 1.4rem;
+}
+@media (min-width: 991px){
+    .blq-map ul{
+        margin-left: 180px;
+    }
+}
+
+.gmap_canvas {
+    margin: 80px;
+    overflow: hidden;
+    background: none !important;
+    height: auto;
+    max-height: 600px;
+    width: auto;
+    max-width: 600px;
+    border: 0;
+}
+

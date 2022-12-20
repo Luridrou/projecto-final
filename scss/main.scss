@@ -1,0 +1,15 @@
+@import "./utils/variables";
+@import "./utils/mixin";
+
+@import "./base/base";
+
+@import "./components/button";
+@import "./components/navbar";
+@import "./components/footer";
+@import "./components/form";
+
+@import "./pages/index";
+@import "./pages/geneo";
+@import "./pages/prpbyzio";
+@import "./pages/zioacademy";
+@import "./pages/aboutus";

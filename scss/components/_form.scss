@@ -1,0 +1,50 @@
+.form-section{
+    background-color: rgb(245, 243, 244);
+}
+
+.form-title{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.form-container{
+    background-color:rgb(83, 88, 95);
+    padding: 20px 20px;
+    border-radius: 20px;
+    max-width: 350px;
+    min-width: 150px;
+    margin: 0px 20px;
+    margin-bottom: 80px;
+}
+
+.form-label{
+    font-size: 0.7rem;
+}
+
+.form-control{
+    font-size: 0.6rem;
+}
+
+.form-check{
+    font-size: 0.7rem;
+}
+
+.submit-boton{
+    width: 60%;
+    padding: 5px;
+    background-color: #d6e8e2;  
+    border-radius: 20px;
+    font-size: 0.6rem;
+    border: none;
+}
+
+.reset-boton{
+    width: 30%;
+    padding: 5px 8px;
+    background-color: #d6e8e2;
+    border-radius: 10px;
+    font-size: 0.6rem;
+    border: none;
+}

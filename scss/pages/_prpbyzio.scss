@@ -1,0 +1,67 @@
+.img-bloque1{
+    background-image: url(../img/prp-3.png);
+    background-size: cover;
+    background-position: center;
+    height: 35vh;
+}
+
+.img-bloque2{
+    background-image: url(../img/prp-4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 35vh;
+}
+
+.img-bloque3{
+    background-image: url(../img/prp-5.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 35vh;
+}
+
+.bg-golden{
+    background-color: rgb(232, 213, 173);
+}
+.img-line{
+    display:block;
+    margin:auto;
+    height: 25vh;
+    width: 100vw;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: 25% 25%;
+    padding: 0 25px;
+}
+
+@media (min-width: 768px) {
+    .img-line{
+        display:block;
+        margin:auto;
+        object-fit: cover;
+        height: 30vh;
+        max-width: 70%;
+        overflow: hidden;
+        object-position: 25% 25%;
+    }
+}
+
+@media (min-width: 1400px) {
+    .img-line{
+        display:block;
+        margin:auto;
+        object-fit: cover;
+        height: 30vh;
+        max-width: 70%;
+        overflow: hidden;
+        object-position: 25% 25%;
+    }
+}
+
+
+.banner-capilar{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(../img/prp-capilar.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+}
+
