@@ -1,8 +1,9 @@
 .img-fit{
     overflow:hidden;
-    object-fit: cover;
+    object-fit:cover;
     place-content: center;
     width: 100%;    
-    height: auto;
+    height: 400px;
     max-height: 400px;
+    overflow: hidden;
 }

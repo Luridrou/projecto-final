@@ -1,5 +1,7 @@
 .form-section{
     background-color: rgb(245, 243, 244);
+    font-weight: 500;
+    color: whitesmoke;
 }
 
 .form-title{
@@ -7,6 +9,7 @@
     margin-bottom: 40px;
     text-align: center;
     font-size: 2rem;
+    color: black;
 }
 
 .form-container{
@@ -29,22 +32,4 @@
 
 .form-check{
     font-size: 0.7rem;
-}
-
-.submit-boton{
-    width: 60%;
-    padding: 5px;
-    background-color: #d6e8e2;  
-    border-radius: 20px;
-    font-size: 0.6rem;
-    border: none;
-}
-
-.reset-boton{
-    width: 30%;
-    padding: 5px 8px;
-    background-color: #d6e8e2;
-    border-radius: 10px;
-    font-size: 0.6rem;
-    border: none;
 }
